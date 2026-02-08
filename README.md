@@ -70,6 +70,11 @@ The Power BI dashboard focuses on **descriptive and diagnostic analysis**, inclu
 
 Power BI was intentionally completed **before the Machine Learning phase** to understand data behavior and guide feature engineering.
 
+![d4429925-ef5d-4154-af86-2879fe3998f0](https://github.com/user-attachments/assets/bb327c99-5c0d-4c77-bfec-042fd14edbbc)
+
+![8e6f32a7-e76d-421a-ac48-ff23f19303b3](https://github.com/user-attachments/assets/a16ec434-ccb6-4732-9761-3dd1839a0376)
+
+
 ---
 
 ## 🧠 Machine Learning Workflow
